@@ -8,3 +8,9 @@ Criado por: Igor Souza Carvalho.
 ![Jogo do número secreto](https://github.com/igorsouzacarvalho88/numero-secreto/blob/main/img/ia.png "IA PNG")
 
  Segue o [link](https://github.com/igorsouzacarvalho88/numero-secreto "Jogo número secreto").
+
+  Ferramenta | Uso | Sintaxe |
+| :--- | :--- | :--- |
+| GitHub | Documentação | `| item |` |
+| Notion | Notas | `| item |` |
+| Discord | Mensagens | `| item |` 
