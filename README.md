@@ -13,10 +13,14 @@
  
 ## Linguagem utilizada
 
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width= 50 />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width= 50 /></div>
+
+
 
 
 ### Criado por:
 >Igor Souza Carvalho.
+
+| centro   | centro  |
+|:--------:|:---------:|
+ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width= 50 />) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width= 50 /> |
