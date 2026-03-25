@@ -1,5 +1,5 @@
 
-# Readme by Jogo número-Secreto
+# Jogo Número-Secreto
 
  
 ## Sobre o jogo
