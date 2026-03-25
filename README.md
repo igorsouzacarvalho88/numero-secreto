@@ -18,4 +18,4 @@ Criado por: Igor Souza Carvalho.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width= 50 />
 
 
-![](https://github.com/igorsouzacarvalho88/igorsouzacarvalho/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/igorsouzacarvalho8/igorsouzacarvalho8/blob/output/github-contribution-grid-snake.svg)
