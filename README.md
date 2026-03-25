@@ -5,7 +5,7 @@
 > É um jogo de adivinhação de números com a capacidade de trabalhar a agilidade mental e segmentar o pensamento no sentido de produzir as capacidades práticas do celebro e gerar de forma direta o aprendizado.<br>
 Criado por: Igor Souza Carvalho.
 
-![Jogo do número secreto](https://github.com/igorsouzacarvalho88/numero-secreto/blob/main/img/ia.png "IA PNG" =100x200)
+![Jogo do número secreto](https://github.com/igorsouzacarvalho88/numero-secreto/blob/main/img/ia.png "IA PNG")
 
 
 
@@ -13,6 +13,6 @@ Criado por: Igor Souza Carvalho.
 
   Ferramenta | Uso | Sintaxe |
 | :--- | :--- | :--- |
-| GitHub | Documentação | `| item |` |
-| Notion | Notas | `| item |` |
-| Discord | Mensagens | `| item |` 
+| GitHub | Documentação | `| <i class="devicon-github-original-wordmark"></i> |` |
+| JavaScript | Notas | `| <i class="devicon-javascript-plain colored"></i> |` |
+| Discord | Mensagens | `| <i class="devicon-html5-plain-wordmark"></i> |` 
