@@ -11,7 +11,7 @@ Criado por: Igor Souza Carvalho.
 
  Segue o [link](https://github.com/igorsouzacarvalho88/numero-secreto "Jogo número secreto").
 
-<div style="color: white;" width=300><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width= 50 />
+<div style="color: white;" width=500><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width= 50 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width= 50 />
 
