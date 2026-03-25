@@ -11,11 +11,11 @@ Criado por: Igor Souza Carvalho.
 
  Segue o [link](https://github.com/igorsouzacarvalho88/numero-secreto "Jogo número secreto").
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width= 50 />
+<div style="color: white;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width= 50 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width= 50 />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width= 50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width= 50 /></div>
 
 
-![Snake animation](https://github.com/igorsouzacarvalho8/igorsouzacarvalho8/blob/output/github-contribution-grid-snake.svg)
+
