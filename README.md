@@ -10,9 +10,10 @@
 
 
  Segue o [link](https://github.com/igorsouzacarvalho88/numero-secreto "Jogo número secreto").
+ 
 ## Linguagem utilizada
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width= 30 />
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width= 30 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width= 30 /></div>
 
