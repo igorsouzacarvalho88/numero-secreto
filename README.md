@@ -17,4 +17,4 @@ Criado por: Igor Souza Carvalho.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width= 50 />
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/igorsouzacarvalho88/igorsouzacarvalho88/blob/output/github-contribution-grid-snake.svg)
