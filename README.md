@@ -10,8 +10,7 @@ Criado por: Igor Souza Carvalho.
 
 
  Segue o [link](https://github.com/igorsouzacarvalho88/numero-secreto "Jogo número secreto").
-
-<div style="color: white;" width=1000><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width= 30 />
+## Linguagem utilizada
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width= 30 />
 
