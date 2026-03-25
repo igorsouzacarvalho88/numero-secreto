@@ -6,7 +6,7 @@
 Criado por: Igor Souza Carvalho.
 
 ![Jogo do número secreto](https://github.com/igorsouzacarvalho88/numero-secreto/blob/main/img/ia.png "IA PNG")
-img src="https://github.com/igorsouzacarvalho88/numero-secreto/blob/main/img/ia.png" width= 200 />
+<img src="https://github.com/igorsouzacarvalho88/numero-secreto/blob/main/img/ia.png" width= 200 />
 
 
  Segue o [link](https://github.com/igorsouzacarvalho88/numero-secreto "Jogo número secreto").
