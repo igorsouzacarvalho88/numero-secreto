@@ -15,4 +15,4 @@ Criado por: Igor Souza Carvalho.
 | :--- | :--- | :--- |
 | GitHub | Documentação | `| <i class="devicon-github-original-wordmark"></i> |` |
 | JavaScript | Notas | `| <i class="devicon-javascript-plain colored"></i> |` |
-| Discord | Mensagens | `| <i class="devicon-html5-plain-wordmark"></i> |` 
+| Discord | Mensagens | `| <i <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />></i> |` 
